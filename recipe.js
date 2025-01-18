@@ -1,4 +1,3 @@
-// const API_KEY = 'YOUR_SPOONACULAR_API_KEY';
 const API_KEY = '444bfc3de61a46dcba1a59bd9745d7a2';
 const API_BASE_URL = 'https://api.spoonacular.com/recipes';
 
