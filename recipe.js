@@ -1,4 +1,4 @@
-const API_KEY = '444bfc3de61a46dcba1a59bd9745d7a2';
+const API_KEY = '444bfc3de61a46dcba1a59bd9745d7a2';de
 const API_BASE_URL = 'https://api.spoonacular.com/recipes';
 
 const searchInput = document.getElementById('searchInput');
